@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about animes, video games, astronomy and motocycle.
 - 📫 How to reach me: 
   - Linkedin: [in/bruno-uemura](https://www.linkedin.com/in/bruno-hideki-uemura-918589139/)
-  - Email: [bruno.h.uemura@gmail.com](bruno.h.uemura@gmail.com)
+  - Email: [bruno.h.uemura@gmail.com](mailto:bruno.h.uemura@gmail.com)
   - Intagram: [@uemurabruno](https://www.instagram.com/uemurabruno/)
 - ⚡ Fun fact: I was born and raised in japan until my 13 years, and I can speak japanese fluently. Also I am a huge fan of geek and japanese culture.
