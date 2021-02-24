@@ -10,5 +10,4 @@ Here are some ideas to get you started:
   - Linkedin: [in/bruno-uemura](https://www.linkedin.com/in/bruno-hideki-uemura-918589139/)
   - Email: [bruno.h.uemura@gmail.com](bruno.h.uemura@gmail.com)
   - Intagram: [@uemurabruno](https://www.instagram.com/uemurabruno/)
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I was born and raised in japan until my 13 years, and I can speak japanese fluently. Also I am a huge fan of geek and japanese culture.
