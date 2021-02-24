@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on small projects to improve and learn new skills
 - 🌱 I’m currently learning web development, ReactJS, React Native and Node.js
 - 🤔 I’m looking for help with my small projects and programming skills.
-- 💬 Ask me about animes, video games and motocycle.
+- 💬 Ask me about animes, video games, astronomy and motocycle.
 - 📫 How to reach me: 
   - Linkedin: [in/bruno-uemura](https://www.linkedin.com/in/bruno-hideki-uemura-918589139/)
   - Email: [bruno.h.uemura@gmail.com](bruno.h.uemura@gmail.com)
