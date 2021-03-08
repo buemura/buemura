@@ -11,3 +11,11 @@ Here are some ideas to get you started:
   - Email: [bruno.h.uemura@gmail.com](mailto:bruno.h.uemura@gmail.com)
   - Intagram: [@uemurabruno](https://www.instagram.com/uemurabruno/)
 - ⚡ Fun fact: I was born and raised in japan until my 13 years, and I can speak japanese fluently. Also I am a huge fan of geek and japanese culture.
+
+<p align="justify">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrunoUemura&show_icons=true&count_private=true&theme=dracula&hide=issues" />
+</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoUemura&layout=compact&theme=dracula" />
+</a>
