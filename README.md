@@ -12,10 +12,6 @@
 - ⚡ Fun fact: I was born and raised in japan until my 13 years, and I can speak japanese fluently. Also I am a huge fan of geek and japanese culture.
 
 ## Interested in the following technologies:
-<a href="#" target="_blank">
-</a>
-
-<br />
 <p align="center">
   <a href="https://pt-br.reactjs.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="32px" heigth="32px"> 
@@ -36,4 +32,3 @@
     <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="30px" heigth="30px">
   </a>
 </p>
-<br />
