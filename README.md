@@ -12,22 +12,23 @@
 - ⚡ Fun fact: I was born and raised in japan until my 13 years, and I can speak japanese fluently. Also I am a huge fan of geek and japanese culture.
 
 ## Interested in the following technologies:
-
-<a href="https://pt-br.reactjs.org/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="32px" heigth="32px"> 
-</a>
-<a href="https://reactnative.dev/" target="_blank">
-  <img src="https://media.slid.es/uploads/118447/images/2991881/reactpurple.png" width="32.52px" heigth="30px">
-</a>
-<a href="https://nodejs.org/dist/latest-v15.x/docs/api/" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="30px" heigth="30px">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png" width="30px" heigth="30px">
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width="30px" heigth="30px">
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="30px" heigth="30px">
-</a>
+<p align="center">
+  <a href="https://pt-br.reactjs.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="32px" heigth="32px"> 
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://media.slid.es/uploads/118447/images/2991881/reactpurple.png" width="32.52px" heigth="30px">
+  </a>
+  <a href="https://nodejs.org/dist/latest-v15.x/docs/api/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="30px" heigth="30px">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png" width="30px" heigth="30px">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width="30px" heigth="30px">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="30px" heigth="30px">
+  </a>
+</p>
