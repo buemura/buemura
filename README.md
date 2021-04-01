@@ -4,9 +4,8 @@
   <a href="mailto:bruno.h.uemura@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
   <a href="https://www.instagram.com/uemurabruno/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
-<br />
-## Brief introduction about me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+## Brief introduction about me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 - 🔭 I’m currently working on small projects to improve and learn new skills
 - 🌱 I’m currently learning web development
 - 🤔 I’m looking for help with my small projects and programming skills.
