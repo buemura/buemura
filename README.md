@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on small projects to improve and learn new skills
 - 🌱 I’m currently learning web development, React, React Native and Node.js
-- <img src="https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png">
+- <img src="https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png" width="30px" heigth="30px">
 - 🤔 I’m looking for help with my small projects and programming skills.
 - 💬 Ask me about animes, video games, astronomy and motocycle.
 - ⚡ Fun fact: I was born and raised in japan until my 13 years, and I can speak japanese fluently. Also I am a huge fan of geek and japanese culture.
