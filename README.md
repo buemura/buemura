@@ -1,9 +1,7 @@
 # Bruno Hideki Uemura
-<p align="center">
   <a href="https://www.linkedin.com/in/bruno-uemura/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:bruno.h.uemura@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
   <a href="https://www.instagram.com/uemurabruno/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
 
 ## Brief introduction about me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 - 🔭 I’m currently working on small projects to improve and learn new skills
@@ -13,7 +11,6 @@
 - ⚡ Fun fact: I was born and raised in japan until my 13 years, and I can speak japanese fluently. Also I am a huge fan of geek and japanese culture.
 
 ## Interested in the following technologies:
-<p align="center">
   <a href="https://pt-br.reactjs.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="32px" heigth="32px"> 
   </a>
@@ -32,4 +29,3 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="30px" heigth="30px">
   </a>
-</p>
