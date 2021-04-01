@@ -25,6 +25,7 @@
 <a href="https://www.python.org/" target="_blank">
   <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="20px" heigth="20px">
 </a>
+<br/>
 - 🤔 I’m looking for help with my small projects and programming skills.
 - 💬 Ask me about animes, video games, astronomy and motocycle.
 - ⚡ Fun fact: I was born and raised in japan until my 13 years, and I can speak japanese fluently. Also I am a huge fan of geek and japanese culture.
