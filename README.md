@@ -30,7 +30,7 @@
     <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="30px" heigth="30px">
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="http://assets.stickpng.com/images/584815fdcef1014c0b5e497a.png" width="30px" heigth="30px">
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="30px" heigth="30px">
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://image.flaticon.com/icons/png/512/919/919853.png" width="30px" heigth="30px">
