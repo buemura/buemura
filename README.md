@@ -30,6 +30,6 @@
     <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="30px" heigth="30px">
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo-1.png" width="30px" heigth="30px">
+    <img src="https://www.pngfind.com/pngs/m/255-2553250_icon-docker-notext-color-docker-icon-png-transparent.png" width="30px" heigth="30px">
   </a>
 
