@@ -30,7 +30,7 @@
     <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="30px" heigth="30px">
   </a>
   <a href="https://www.oracle.com/br/java/technologies/javase-downloads.html" target="_blank">
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="40px" heigth="40px">
+    <img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="30px" heigth="30px">
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="30px" heigth="30px">
