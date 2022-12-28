@@ -13,7 +13,7 @@ export const userDetails = {
   techStack: {
     languages: ["JavaScript", "TypeScript", "Go"],
     frameworksAndTools: ["Node.js", "React", "Next.js"],
-    concepts: ["DevOps", "Cloud"],
+    others: ["DevOps", "Cloud"],
   },
   languages: ["Portuguese", "English", "Japanese", "Spanish"],
 };
