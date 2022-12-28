@@ -7,7 +7,7 @@
 ```javascript
 export const userDetails = {
   name: "Bruno Hideki Uemura",
-  role: "Software Engineer | FullStack",
+  role: "Software Engineer | Full-Stack",
   worksAt: "IBM",
   location: "Brazil",
   techStack: {
