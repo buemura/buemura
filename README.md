@@ -52,9 +52,6 @@ export const userDetails = {
      </a>
   </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ## 🤝 Contacts:
 
 <div>
