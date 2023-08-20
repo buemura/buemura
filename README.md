@@ -20,6 +20,7 @@ export const userDetails = {
 ```
 
 ## ⚙️ Tech stack:
+
   <div style="display: inline_block"><br>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
@@ -51,7 +52,9 @@ export const userDetails = {
      </a>
   </div>
 
-  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🤝 Contacts:
 
 <div>
