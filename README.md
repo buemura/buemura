@@ -6,13 +6,14 @@
 
 ```javascript
 export const userDetails = {
-  name: "Bruno Hideki Uemura",
+  name: "Bruno Uemura",
   role: "Software Engineer | Full-Stack",
-  worksAt: "IBM",
+  worksAt: "Stone",
   location: "Brazil",
   techStack: {
-    languages: ["JavaScript", "TypeScript", "Go"],
-    frameworksAndTools: ["Node.js", "React", "Next.js"],
+    languages: ["JavaScript", "TypeScript", "Golang", "Python"],
+    databases: ["PostgreSQL", "MongoDB", "Redis"],
+    frameworksAndTools: ["Node.js", "NestJS", "React", "Next.js", "RabbitMQ", "Kafka", "Docker"],
     others: ["DevOps", "Cloud"],
   },
   languages: ["Portuguese", "English", "Japanese", "Spanish"],
@@ -28,11 +29,14 @@ export const userDetails = {
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"></code>
+    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
+    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></code>
+    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
     <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png"></code>
