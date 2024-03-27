@@ -8,7 +8,6 @@
 export const userDetails = {
   name: "Bruno Uemura",
   role: "Software Engineer | Full-Stack",
-  worksAt: "Stone",
   location: "Brazil",
   techStack: {
     languages: ["JavaScript", "TypeScript", "Golang", "Python"],
