@@ -22,23 +22,20 @@ export const userDetails = {
 ## ⚙️ Tech stack:
 
   <div style="display: inline_block"><br>
-    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
-    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"></code>
-    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
+    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></code>
     <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"></code>
-    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"></code>
-    <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
-    <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png"></code>
   </div>
   
   <br />
