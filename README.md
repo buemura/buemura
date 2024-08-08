@@ -46,11 +46,11 @@ export const userDetails = {
     <a href="https://github.com/buemura">
       <img 
         height="160em" 
-        src="https://github-readme-stats.vercel.app/api?username=buemura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=buemura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
       />
       <img 
         height="160em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=buemura&layout=compact&langs_count=7&theme=dracula"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=buemura&layout=compact&langs_count=7&theme=tokyonight"
       />
      </a>
   </div>
