@@ -7,15 +7,15 @@
 ```javascript
 export const userDetails = {
   name: "Bruno Uemura",
-  role: "Software Engineer | Full-Stack",
+  role: "Software Engineer",
   location: "Brazil",
+  languages: ["Portuguese", "English", "Japanese", "Spanish"],
   techStack: {
-    languages: ["JavaScript", "TypeScript", "Golang", "Python"],
+    languages: ["Golang", "TypeScript", "Python"],
     databases: ["PostgreSQL", "MongoDB", "Redis"],
     frameworksAndTools: ["Node.js", "NestJS", "React", "Next.js", "RabbitMQ", "Kafka", "Docker"],
     others: ["DevOps", "Cloud"],
-  },
-  languages: ["Portuguese", "English", "Japanese", "Spanish"],
+  }
 };
 ```
 
