@@ -1,24 +1,3 @@
-## 🧔🏻 About me
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bruno+Hideki+Uemura;Full-Stack+Software+Engineer&center=true&width=500&height=50"></a>
-</p>
-
-```javascript
-export const userDetails = {
-  name: "Bruno Uemura",
-  role: "Software Engineer",
-  location: "Brazil",
-  languages: ["Portuguese", "English", "Japanese", "Spanish"],
-  techStack: {
-    languages: ["Golang", "TypeScript", "Python"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    frameworksAndTools: ["Node.js", "NestJS", "React", "Next.js", "RabbitMQ", "Kafka", "Docker"],
-    others: ["DevOps", "Cloud"],
-  }
-};
-```
-
 ## ⚙️ Tech stack:
 
   <div style="display: inline_block"><br>
